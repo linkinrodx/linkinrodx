@@ -4,7 +4,7 @@
 
 <!-- <img align="center" src="https://github.com/linkinrodx/linkinrodx/blob/master/desarrollador.jpg?raw=true" /> -->
 
-I'm currently working as Full Stack Developer .Net at Globant
+I'm currently working as Full Stack Developer .Net at GAP
 
 You'll here find public repositories with .Net, .Net Core, Javascript, etc. Feel free to contact me if you have any suggestions or questions.
 
